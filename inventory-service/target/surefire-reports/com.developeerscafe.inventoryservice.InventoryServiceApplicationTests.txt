@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.developeerscafe.inventoryservice.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.418 s - in com.developeerscafe.inventoryservice.InventoryServiceApplicationTests

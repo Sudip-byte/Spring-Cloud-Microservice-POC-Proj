@@ -1,0 +1,6 @@
+D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\inventory-service\src\main\java\com\developeerscafe\inventoryservice\dto\InventoryResponse.java
+D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\inventory-service\src\main\java\com\developeerscafe\inventoryservice\InventoryServiceApplication.java
+D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\inventory-service\src\main\java\com\developeerscafe\inventoryservice\model\Inventory.java
+D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\inventory-service\src\main\java\com\developeerscafe\inventoryservice\repository\InventoryRepository.java
+D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\inventory-service\src\main\java\com\developeerscafe\inventoryservice\service\InventoryService.java
+D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\inventory-service\src\main\java\com\developeerscafe\inventoryservice\controller\InventoryController.java
