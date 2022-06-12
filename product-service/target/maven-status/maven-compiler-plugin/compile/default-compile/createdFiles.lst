@@ -1,0 +1,10 @@
+com\developeerscafe\productservice\repository\ProductRepository.class
+com\developeerscafe\productservice\service\ProductService.class
+com\developeerscafe\productservice\ProductServiceApplication.class
+com\developeerscafe\productservice\model\Product$ProductBuilder.class
+com\developeerscafe\productservice\model\Product.class
+com\developeerscafe\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\developeerscafe\productservice\dto\ProductRequest.class
+com\developeerscafe\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\developeerscafe\productservice\dto\ProductResponse.class
+com\developeerscafe\productservice\controller\ProductController.class

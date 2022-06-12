@@ -1,0 +1,12 @@
+com\developeerscafe\orderservice\OrderServiceApplication.class
+com\developeerscafe\orderservice\model\OrderLineItems.class
+com\developeerscafe\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\developeerscafe\orderservice\model\Order.class
+com\developeerscafe\orderservice\service\OrderService.class
+com\developeerscafe\orderservice\repository\OrderRepository.class
+com\developeerscafe\orderservice\dto\OrderLineItemsDto.class
+com\developeerscafe\orderservice\dto\OrderDto.class
+com\developeerscafe\orderservice\config\WebClientConfig.class
+com\developeerscafe\orderservice\dto\OrderRequest.class
+com\developeerscafe\orderservice\controller\OrderController.class
+com\developeerscafe\orderservice\dto\InventoryResponse.class
