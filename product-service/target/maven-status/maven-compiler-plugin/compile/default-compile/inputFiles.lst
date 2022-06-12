@@ -1,7 +1,0 @@
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\controller\ProductController.java
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\model\Product.java
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\dto\ProductRequest.java
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\ProductServiceApplication.java
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\dto\ProductResponse.java
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\repository\ProductRepository.java
-D:\PERSONAL_LEARNING\Spring Boot Microservices\Spring-Microservices-Multi-Module\product-service\src\main\java\com\developeerscafe\productservice\service\ProductService.java
